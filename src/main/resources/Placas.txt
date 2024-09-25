@@ -1,0 +1,5 @@
+//#;Placa;Marca;Modelo;NroAsientos;Precio;Color
+ASR-121;KIA;Sportage;5;26000;Negro
+FAD-124;Toyota;Rav;5;26000;Negro
+FFD-524;HYUNDAI;Rav;4;66000;Gris
+BAG-580;PORSHE;Rav;4;126000;Rojo
